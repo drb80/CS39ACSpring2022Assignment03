@@ -72,4 +72,4 @@ For this assignment, there is no need to read the command line for port
 number, directory, etc.
 
 For more information on HTTP requests and responses see:
-https://javadoc.io/doc/org.scalatra/scalatra-unidoc\_2.13/2.8.0/org/scalatra/ScalatraServlet.html
+https://javadoc.io/doc/org.scalatra/scalatra-unidoc_2.13/2.8.0/org/scalatra/ScalatraServlet.html
